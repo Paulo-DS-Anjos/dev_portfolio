@@ -9,5 +9,5 @@ Boas vindas ao repositório de projetos para portifólio. Aqui você encontrará
 Abaixo está a contagem de projetos que já foram documentados nesta página.
 
 | Nome | Data de Criação |
-| -- | -- | -- |
+| -- | -- |
 | [Dashboard de Livros Mais Vendidos na Amazon](./dashboard_livros_mais_vendidos_na_amazon/) | 05/10/2024|
