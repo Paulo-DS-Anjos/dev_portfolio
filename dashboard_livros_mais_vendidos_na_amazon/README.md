@@ -25,4 +25,5 @@ streamlit run "D:\Biblioteca\Documentos\Paulo_documentos"\Dashboard-Livros-Mais-
 ```
 
 
->OBS II: Esse projeto é desenvolvido no curso gratuito da [Asimov Academy](https://hub.asimov.academy/curso/python-para-iniciantes), inclusive tem até certificado gratutito, então corre lá e aproveita.
+>OBS II: Esse projeto é desenvolvido no curso gratuito [Python para Iniciantes - Asimov Academy](https://hub.asimov.academy/curso/python-para-iniciantes/)
+, inclusive tem até certificado gratutito, então corre lá e aproveita.
