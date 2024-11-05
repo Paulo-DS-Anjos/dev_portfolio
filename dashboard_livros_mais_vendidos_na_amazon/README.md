@@ -21,3 +21,5 @@ pip install plotly
 ```terminal
 streamlit run "D:\Biblioteca\Documentos\Paulo_documentos"\Dashboard-Livros-Mais-Vendidos-Amazon\📗_top100.py
 ```
+
+>OBS II: Esse projeto é desenvolvido no curso gratuito da [Asimov Academy](https://hub.asimov.academy/curso/python-para-iniciantes/), inclusive tem até certificado gratutito, então corre lá e aproveita
