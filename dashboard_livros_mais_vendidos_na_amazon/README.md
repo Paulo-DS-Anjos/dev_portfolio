@@ -17,7 +17,7 @@ pip install streamlit
 pip install plotly
 ```
 
->OBS: Dependendo da IDE que está sendo utilizada, será necessário inicializar o 'streamlit' manualmente pelo termnal da IDE com o seguinte comando:
+>OBS: Dependendo da IDE que está sendo utilizada, será necessário inicializar o 'streamlit' manualmente pelo terminal da IDE substituindo o que está entre aspas `"D:\Biblioteca\Documentos\Paulo_documentos"` pelo caminho que você salvou seu projeto:
 ```terminal
-
+streamlit run "D:\Biblioteca\Documentos\Paulo_documentos"\Dashboard-Livros-Mais-Vendidos-Amazon\📗_top100.py
 ```
