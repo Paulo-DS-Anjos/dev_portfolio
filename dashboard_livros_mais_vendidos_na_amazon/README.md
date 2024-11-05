@@ -5,15 +5,15 @@ Na pasta [data_set](./data_set/) estão armazenados os dados que foram analisado
 
 Para este projeto é necessário fazer as importações das bibliotecas: 'pandas', 'streamlit' e 'plotly' que podem fácilmente serem instaladas pelo cmd através dos comandos:
 
-```cmd
+```terminal
 pip install pandas
 ```
 
-```cmd
+```terminal
 pip install streamlit
 ```
 
-```cmd
+```terminal
 pip install plotly
 ```
 
