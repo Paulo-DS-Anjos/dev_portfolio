@@ -9,7 +9,6 @@ df_top100_books = pd.read_csv("dataset/Top-100 Trending Books.csv")
 books = df_top100_books["book title"].unique()[::-1]
 book = st.sidebar.selectbox("Books", books)
 
-# book = "The Woman in Me"
 df_book = df_top100_books[df_top100_books["book title"] == book]
 df_reviews_f = df_reviews[df_reviews["book name"] == book]
 
